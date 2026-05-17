@@ -843,7 +843,7 @@ ul { list-style: none; }
 
 .whatsapp-float svg { width: 32px; height: 32px; color: var(--white); }
 
-/* ===== MOBILE — TABLET 768px ===== */
+/* ===== MOBILE - TABLET 768px ===== */
 @media (max-width: 900px) {
   .services-grid { grid-template-columns: repeat(2, 1fr); }
   .coverage-inner { grid-template-columns: 1fr; gap: 40px; }
